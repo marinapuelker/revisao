@@ -1,0 +1,11 @@
+,Marca,Modelo,Ano,Quilometragem,Preço Diária,Disponível
+A,Volkswagen,Gol,2021,70263,70,False
+B,Chevrolet,Cruze,2018,26023,107,True
+C,Hyundai,HB20,2022,51090,71,False
+D,Volkswagen,Gol,2019,77221,138,True
+E,Toyota,Corolla,2021,74820,98,True
+F,Toyota,Corolla,2017,10769,108,True
+G,Toyota,Etios,2021,69735,64,False
+H,Hyundai,HB20,2022,72955,100,True
+I,Toyota,Corolla,2019,74925,157,True
+J,Volkswagen,Gol,2018,77969,104,True
